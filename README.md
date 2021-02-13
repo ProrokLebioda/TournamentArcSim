@@ -9,6 +9,10 @@ Created by Z. Parker (Two Neurons) - these materials may be used under CC-BY-NC-
 Files:
 tree.fbx
 rock.fbx
+
+Factory, Barracks, Training Post
+Created by Z. Parker (Two Neurons) - these materials may be used under CC-BY-NC-SA
+- You may edit or build upon these two files non-commercially (you cannot make money off of them), as long as you credit the creator (me) and use the same license.
 --------------------------------------------------------------------------------------------
 
 --------------------------------------------Icons--------------------------------------------
